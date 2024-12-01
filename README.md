@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @rxh1m
-- 👀 I’m interested in Roblox
-- 🌱 I’m currently learning Coding
+- 👋 Hi, I’m rxh1m
+- 👀 I’m interested in playing Roblox and Fortnite
+- 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on Coding Projects
-- 📫 How to reach me -- Email: rxh1m.707@gmail.com
+- 📫 How to reach me -- Email: sheikhrahim3@yahoo.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love Gaming!
+- ⚡ Fun fact: I love Gaming and Coding!
 
 <!---
 rxh1m/rxh1m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
